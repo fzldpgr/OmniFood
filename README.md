@@ -1,6 +1,6 @@
 # OmniFood
 
-*Dummy Company
+*Dummy Company*
 
 Food Delivery Service
 
